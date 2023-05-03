@@ -76,7 +76,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/my-To-do-list.git
+$ git clone https://github.com/agostinhomarcia/reconhecendo-voz.git
 # Access
 $ cd reconhecendo-voz
 # The server will initialize in the <http://localhost:3000>
