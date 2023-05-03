@@ -16,19 +16,19 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/my-To-do-list?color=ff00ff">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/reconhecendo-voz?color=ff00ff">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/my-To-do-list?color=ff00ff">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/reconhecendo-voz?color=ff00ff">
 
   <!-- <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/projeto-doguinho?color=008B8B"> -->
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/my-To-do-list?color=ff00ff">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/reconhecendo-voz?color=ff00ff">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/my-To-do-list?color=ff00ff" />
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/reconhecendo-voz?color=ff00ff" />
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/my-To-do-list?color=ff00ff" />
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/reconhecendo-voz?color=ff00ff" />
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/my-To-do-list?color=ff00ff" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/reconhecendo-voz?color=ff00ff" /> 
 </p>
 <hr>
 <p align="center" >This project consists of a to-do list.
@@ -78,7 +78,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 # Clone this project
 $ git clone https://github.com/agostinhomarcia/my-To-do-list.git
 # Access
-$ cd my-To-do-list
+$ cd reconhecendo-voz
 # The server will initialize in the <http://localhost:3000>
 ```
 
@@ -89,7 +89,7 @@ This project is under the [MIT license](./LICENSE).
 Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 
 <p align="center">
-   <img src="https://media.giphy.com/media/ESPA5SdhTEnYWB77Hk/giphy.gif" alt="Burguer" width="250"/>
+   <img src="https://media.giphy.com/media/ESPA5SdhTEnYWB77Hk/giphy.gif" alt="reconhecendo-voz" width="250"/>
 </p>
 
 &#xa0;
